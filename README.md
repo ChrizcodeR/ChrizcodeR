@@ -39,5 +39,5 @@ Implementaciones híbridas (cloud + local)
 💡 ¿Por qué seguirme o revisar mis repos?
 Porque comparto código limpio, documentado, funcional y listo para adaptar a la realidad de una empresa. Nada de "Hello World" abandonado. Aquí hay soluciones reales, para problemas reales.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrizcodeR&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrizcodeR&theme=dracula&locale=es)](https://git.io/streak-stats)
 
