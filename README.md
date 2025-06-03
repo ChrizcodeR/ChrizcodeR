@@ -1,3 +1,6 @@
+
+![Logo](https://pocketbase-production-1e6d.up.railway.app/api/files/pbc_242989748/dc1s2r11p4yosv8/1699233183981_ka0auqw1li.jpeg?token=)
+
 👋 ¡Hola! Soy ChrizCode
 🔧 Coordinador de Tecnología y Especialista en Marketing, apasionado por construir soluciones prácticas y eficientes. Me encanta optimizar procesos, automatizar tareas y mantener todo corriendo como una máquina bien aceitada.
 
